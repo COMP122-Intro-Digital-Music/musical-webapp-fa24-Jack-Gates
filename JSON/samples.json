@@ -1,5 +1,17 @@
 [
   {
+    "name": "Double",
+    "file": "samples/Double_Points.mp3",
+    "bpm": "120",
+    "loop": "2s"
+  },
+  {
+    "name": "Piano",
+    "file": "samples/Paino_Sample.mp3",
+    "bpm": "120",
+    "loop": "6s"
+  },
+  {
     "name": "Torb",
     "file": "samples/Torbjorn.mp3",
     "bpm": "120",
