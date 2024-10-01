@@ -3,6 +3,6 @@
     "name": "Torb",
     "file": "samples/Torbjorn.mp3",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "5s"
   }
 ]
