@@ -7,7 +7,7 @@
   },
   {
     "name": "Piano",
-    "file": "samples/Paino_Sample.mp3",
+    "file": "samples/Piano_Sample.mp3",
     "bpm": "120",
     "loop": "6s"
   },
